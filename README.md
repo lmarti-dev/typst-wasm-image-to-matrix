@@ -1,4 +1,4 @@
-# CAUTION: the rust part has been _entirely_ vibe-coded by claude. I do not know rust at all. No warranty, etc.
+# CAUTION: the rust part has been _entirely_ vibe-coded with claude. I do not know rust at all. No warranty, etc.
 
 The following readme was also written by claude, unprompted. 
 
